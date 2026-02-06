@@ -1,0 +1,45 @@
+commit 7ac2c276381d1966fdaad295f8adeb44fe3f3574
+Merge: e73a0aa 0f0e7d4
+Author: AJLam0995 <ajlam0995@gmail.com>
+Date:   Thu Feb 5 20:30:37 2026 -0800
+
+    Fixed Conflict between Merges
+
+commit 0f0e7d47736de8a804c35efe9c8578aeff7208e9
+Author: AJLam0995 <ajlam0995@gmail.com>
+Date:   Thu Feb 5 20:29:21 2026 -0800
+
+    Add favorite movie/game div
+
+commit e73a0aa593edd34c4d9d0a7323ba316fe9601f0d
+Author: AJLam0995 <ajlam0995@gmail.com>
+Date:   Thu Feb 5 20:28:08 2026 -0800
+
+    Add favorite food div
+
+commit 33d7f3aea4f0d140d4ed5722028381b4e768b840
+Author: AJLam0995 <ajlam0995@gmail.com>
+Date:   Thu Feb 5 20:25:43 2026 -0800
+
+    Add README describing the repo
+
+commit 002c41a225488d9b2f30dfb1a245dae1cfbdae55
+Merge: 1d2bfc0 08e237e
+Author: AJLam0995 <120296232+AJLam0995@users.noreply.github.com>
+Date:   Thu Feb 5 20:04:23 2026 -0800
+
+    Merge pull request #1 from AJLam0995/info-fill
+    
+    Filled in the two blanks in index
+
+commit 08e237e4d594d10acb3a722c8ad52c5b4fd57023
+Author: AJLam0995 <ajlam0995@gmail.com>
+Date:   Thu Feb 5 19:54:10 2026 -0800
+
+    Filled in the two blanks in index
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
